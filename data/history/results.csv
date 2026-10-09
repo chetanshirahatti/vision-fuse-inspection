@@ -1,0 +1,9 @@
+time,recipe,source,status,details,image
+2026-10-07 17:04:28,Real_cam_test,NOK_05_both_wrong.png,NOK,ROI_1=0.60; ROI_2=0.74,C:\Users\smart\Downloads\Mindvision\fuse_vision_app_final\fuse_app\data\history\images\20261007_170428_781355_NOK.jpg
+2026-10-07 17:05:17,Real_cam_test,OK_01_master_copy.png,NOK,ROI_1=0.78; ROI_2=0.78,C:\Users\smart\Downloads\Mindvision\fuse_vision_app_final\fuse_app\data\history\images\20261007_170517_889825_NOK.jpg
+2026-10-07 17:05:29,Real_cam_test,OK_01_master_copy.png,NOK,ROI_1=0.78; ROI_2=0.78,C:\Users\smart\Downloads\Mindvision\fuse_vision_app_final\fuse_app\data\history\images\20261007_170529_401783_NOK.jpg
+2026-10-07 17:06:16,Fuse_80A_400A,OK_01_master_copy.png,PASS,FUSE_80A=1.00; FUSE_400A=1.00,
+2026-10-07 17:06:20,Fuse_80A_400A,OK_01_master_copy.png,PASS,FUSE_80A=1.00; FUSE_400A=1.00,
+2026-10-07 17:06:41,Fuse_80A_400A,OK_01_master_copy.png,PASS,FUSE_80A=1.00; FUSE_400A=1.00,
+2026-10-07 17:12:28,Fuse_80A_400A,NOK_03_bottom_300A.png,NOK,FUSE_80A=1.00; FUSE_400A=0.45,C:\Users\smart\Downloads\Mindvision\fuse_vision_app_final\fuse_app\data\history\images\20261007_171228_636548_NOK.jpg
+2026-10-07 17:13:04,Fuse_80A_400A,OK_01_master_copy.png,PASS,FUSE_80A=1.00; FUSE_400A=1.00,

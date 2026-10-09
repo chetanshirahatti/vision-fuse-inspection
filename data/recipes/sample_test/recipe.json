@@ -1,0 +1,47 @@
+{
+  "name": "sample_test",
+  "rois": [
+    {
+      "name": "ROI_1",
+      "x1": 730,
+      "y1": 513,
+      "x2": 828,
+      "y2": 637,
+      "expected": "",
+      "threshold": 0.8
+    },
+    {
+      "name": "ROI_2",
+      "x1": 702,
+      "y1": 659,
+      "x2": 830,
+      "y2": 787,
+      "expected": "",
+      "threshold": 0.8
+    },
+    {
+      "name": "ROI_3",
+      "x1": 1036,
+      "y1": 533,
+      "x2": 1151,
+      "y2": 648,
+      "expected": "",
+      "threshold": 0.8
+    },
+    {
+      "name": "ROI_4",
+      "x1": 1014,
+      "y1": 670,
+      "x2": 1168,
+      "y2": 794,
+      "expected": "",
+      "threshold": 0.8
+    }
+  ],
+  "search_pad": 14,
+  "min_matches": 20,
+  "created": "2026-10-07 10:48:33",
+  "updated": "2026-10-07 10:48:33",
+  "img_w": 1999,
+  "img_h": 1338
+}

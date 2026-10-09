@@ -1,0 +1,30 @@
+{
+  "camera_index": 0,
+  "camera_source": "mindvision",
+  "camera_trigger": "software",
+  "camera_hw_edge": "rising",
+  "camera_exposure_ms": 26.0,
+  "camera_timeout_ms": 3000,
+  "camera_max_side": 2000,
+  "camera_resolution_index": -1,
+  "mindvision_sdk_dir": "C:\\Program Files (x86)\\MindVision\\SDK\\X64",
+  "max_side": 2000,
+  "auto_interval_ms": 1500,
+  "save_nok_images": true,
+  "last_recipe": "Fuse_80A_400A",
+  "modbus": {
+    "enabled": true,
+    "simulate": false,
+    "host": "127.0.0.1",
+    "port": 502,
+    "unit": 1,
+    "poll_ms": 1000,
+    "reg_trigger": 0,
+    "reg_result": 1,
+    "reg_mask": 2,
+    "reg_done": 3,
+    "reg_heartbeat": 4,
+    "val_ok": 5,
+    "val_nok": 6
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Real_cam_test",
+  "rois": [
+    {
+      "name": "ROI_1",
+      "x1": 723,
+      "y1": 635,
+      "x2": 819,
+      "y2": 774,
+      "expected": "",
+      "threshold": 0.8
+    },
+    {
+      "name": "ROI_2",
+      "x1": 1027,
+      "y1": 635,
+      "x2": 1151,
+      "y2": 792,
+      "expected": "",
+      "threshold": 0.8
+    }
+  ],
+  "search_pad": 14,
+  "min_matches": 20,
+  "created": "2026-10-07 10:42:18",
+  "updated": "2026-10-07 10:42:18",
+  "img_w": 1999,
+  "img_h": 1338
+}

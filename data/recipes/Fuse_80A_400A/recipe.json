@@ -1,0 +1,29 @@
+{
+  "name": "Fuse_80A_400A",
+  "rois": [
+    {
+      "name": "FUSE_80A",
+      "x1": 255,
+      "y1": 530,
+      "x2": 352,
+      "y2": 582,
+      "expected": "80A",
+      "threshold": 0.8
+    },
+    {
+      "name": "FUSE_400A",
+      "x1": 268,
+      "y1": 1095,
+      "x2": 392,
+      "y2": 1146,
+      "expected": "400A",
+      "threshold": 0.8
+    }
+  ],
+  "search_pad": 14,
+  "min_matches": 20,
+  "created": "2026-10-07 09:30:59",
+  "updated": "2026-10-07 09:30:59",
+  "img_w": 899,
+  "img_h": 1599
+}
